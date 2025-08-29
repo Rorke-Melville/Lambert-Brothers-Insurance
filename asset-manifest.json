@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lambert-Brothers-Insurance/static/css/main.41c53808.css",
-    "main.js": "/Lambert-Brothers-Insurance/static/js/main.f643789b.js",
+    "main.js": "/Lambert-Brothers-Insurance/static/js/main.72d94898.js",
     "static/media/her.jpg": "/Lambert-Brothers-Insurance/static/media/her.501f502e84fc434d4f40.jpg",
     "index.html": "/Lambert-Brothers-Insurance/index.html",
     "main.41c53808.css.map": "/Lambert-Brothers-Insurance/static/css/main.41c53808.css.map",
-    "main.f643789b.js.map": "/Lambert-Brothers-Insurance/static/js/main.f643789b.js.map"
+    "main.72d94898.js.map": "/Lambert-Brothers-Insurance/static/js/main.72d94898.js.map"
   },
   "entrypoints": [
     "static/css/main.41c53808.css",
-    "static/js/main.f643789b.js"
+    "static/js/main.72d94898.js"
   ]
 }
