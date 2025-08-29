@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lambert-brothers-insurance/static/css/main.41c53808.css",
-    "main.js": "/lambert-brothers-insurance/static/js/main.4def3c77.js",
-    "static/media/her.jpg": "/lambert-brothers-insurance/static/media/her.501f502e84fc434d4f40.jpg",
-    "index.html": "/lambert-brothers-insurance/index.html",
-    "main.41c53808.css.map": "/lambert-brothers-insurance/static/css/main.41c53808.css.map",
-    "main.4def3c77.js.map": "/lambert-brothers-insurance/static/js/main.4def3c77.js.map"
+    "main.css": "/Lambert-Brothers-Insurance/static/css/main.41c53808.css",
+    "main.js": "/Lambert-Brothers-Insurance/static/js/main.f643789b.js",
+    "static/media/her.jpg": "/Lambert-Brothers-Insurance/static/media/her.501f502e84fc434d4f40.jpg",
+    "index.html": "/Lambert-Brothers-Insurance/index.html",
+    "main.41c53808.css.map": "/Lambert-Brothers-Insurance/static/css/main.41c53808.css.map",
+    "main.f643789b.js.map": "/Lambert-Brothers-Insurance/static/js/main.f643789b.js.map"
   },
   "entrypoints": [
     "static/css/main.41c53808.css",
-    "static/js/main.4def3c77.js"
+    "static/js/main.f643789b.js"
   ]
 }
