@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f82877f4.css",
-    "main.js": "/static/js/main.500123df.js",
-    "static/media/commercial-modal.jpg": "/static/media/commercial-modal.34a179083e7d825a9160.jpg",
-    "static/media/offices.jpg": "/static/media/offices.a0d5d965fc8f9cf04900.jpg",
-    "static/media/commercial.jpg": "/static/media/commercial.fa079c0e04ec7413b7cf.jpg",
-    "static/media/family.jpg": "/static/media/family.771721d5e0132570c160.jpg",
-    "static/media/personal.jpg": "/static/media/personal.f3fadad8ae21acea9b9a.jpg",
-    "static/media/her.jpg": "/static/media/her.501f502e84fc434d4f40.jpg",
-    "static/media/personal-modal.jpg": "/static/media/personal-modal.8fa9848152943a7ae08f.jpg",
-    "index.html": "/index.html",
-    "main.f82877f4.css.map": "/static/css/main.f82877f4.css.map",
-    "main.500123df.js.map": "/static/js/main.500123df.js.map"
+    "main.css": "/Lambert-Brothers-Insurance/static/css/main.f82877f4.css",
+    "main.js": "/Lambert-Brothers-Insurance/static/js/main.89fe1475.js",
+    "static/media/commercial-modal.jpg": "/Lambert-Brothers-Insurance/static/media/commercial-modal.34a179083e7d825a9160.jpg",
+    "static/media/offices.jpg": "/Lambert-Brothers-Insurance/static/media/offices.a0d5d965fc8f9cf04900.jpg",
+    "static/media/commercial.jpg": "/Lambert-Brothers-Insurance/static/media/commercial.fa079c0e04ec7413b7cf.jpg",
+    "static/media/family.jpg": "/Lambert-Brothers-Insurance/static/media/family.771721d5e0132570c160.jpg",
+    "static/media/personal.jpg": "/Lambert-Brothers-Insurance/static/media/personal.f3fadad8ae21acea9b9a.jpg",
+    "static/media/her.jpg": "/Lambert-Brothers-Insurance/static/media/her.501f502e84fc434d4f40.jpg",
+    "static/media/personal-modal.jpg": "/Lambert-Brothers-Insurance/static/media/personal-modal.8fa9848152943a7ae08f.jpg",
+    "index.html": "/Lambert-Brothers-Insurance/index.html",
+    "main.f82877f4.css.map": "/Lambert-Brothers-Insurance/static/css/main.f82877f4.css.map",
+    "main.89fe1475.js.map": "/Lambert-Brothers-Insurance/static/js/main.89fe1475.js.map"
   },
   "entrypoints": [
     "static/css/main.f82877f4.css",
-    "static/js/main.500123df.js"
+    "static/js/main.89fe1475.js"
   ]
 }
